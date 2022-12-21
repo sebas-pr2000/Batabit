@@ -1,6 +1,6 @@
 # [Maquetación Batabit](https://batabit-pi.vercel.app/) | [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Logo Linkedin" height="25" width="40" />](https://www.linkedin.com/in/sebastian-prado-escobar-dev/)
 
-![image Landing](https://i.postimg.cc/kMVC2HsT/React-App-Google-Chrome-21-12-2022-12-21-27-p-m.png)
+![image Landing](https://i.postimg.cc/hv1ymqt5/React-App-Google-Chrome-21-12-2022-12-21-27-p-m-2.png)
 
 ## 📜 Resumen 📜
 
